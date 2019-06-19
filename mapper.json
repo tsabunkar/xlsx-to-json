@@ -1,0 +1,23 @@
+[
+    {
+        "guid": "123",
+        "Group": "camera",
+        "Name": "lowLightCompensationState",
+        "Actions": "retrieve update subscribe delete",
+        "CanonicalName": "com.bose.raphael.camera.lowLightCompensationState"
+    },
+    {
+        "guid": "124",
+        "Group": "camera",
+        "Name": "zoom",
+        "Actions": "retrieve update subscribe delete",
+        "CanonicalName": "com.bose.raphael.camera.zoom"
+    },
+    {
+        "guid": "125",
+        "Group": "camera",
+        "Name": "pan",
+        "Actions": "retrieve update subscribe delete",
+        "CanonicalName": "com.bose.raphael.camera.pan"
+    }
+]
